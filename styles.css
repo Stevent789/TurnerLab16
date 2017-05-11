@@ -6,21 +6,12 @@ html {
   height: 1100px;
 }
 
-@font-face {
-  font-family: Elkwood;
-  src: url(../elk.ttf);
-}
-
-@font-face {
-  font-family: VintageAvalanche;
-  src: url(../VintageAvalanche.otf);
-}
 
 
 body {
   text-align: center;
   position: relative;
-  background: linear-gradient(#A88A8A, #423636);
+  background-color: tan;
   background-repeat: no-repeat;
   background-size: cover cover;
   background-position: center center;
